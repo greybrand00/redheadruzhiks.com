@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(rgba(14, 154, 209, 0.521), rgb(128, 210, 250), rgb(36, 137, 165)) ;
+    background-repeat: no-repeat;
+}
+.header{
+    margin-top: 5%;
+}
+.start{
+    width:40%;
+    position: absolute;
+}
+#cutie{
+    border-radius: 20px;
+    border-style: solid;
+    border-color: blue;
+    border-width: 5px;
+    float: right;
+    width: 40%;
+}
+#ruzhik{
+    text-transform: uppercase;
+    font-size: 44px;
+    font-family: 'Labrada', serif;
+}
+#description{
+    font-family: 'Labrada', serif;
+    margin-bottom: 24px;
+    font-size: 24px;
+}
